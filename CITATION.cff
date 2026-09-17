@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+title: >-
+  Where XFOIL Stops Being Trustworthy: a validation against UIUC
+  wind tunnel data at Formula SAE Reynolds numbers
+message: If you use this work, please cite it and the underlying data.
+type: software
+authors:
+  - given-names: Phillip
+    family-names: Yong
+    affiliation: Rose-Hulman Institute of Technology
+repository-code: https://github.com/YOUR-USERNAME/xfoil-lowre-validation
+license: MIT
+keywords:
+  - XFOIL
+  - low Reynolds number aerodynamics
+  - laminar separation bubble
+  - boundary layer transition
+  - Formula SAE
+  - validation
+references:
+  - type: report
+    title: >-
+      Wind Tunnel Aerodynamic Tests of Six Airfoils for Use on
+      Small Wind Turbines
+    authors:
+      - family-names: Selig
+        given-names: Michael S.
+      - family-names: McGranahan
+        given-names: Bryan D.
+    institution:
+      name: National Renewable Energy Laboratory
+    number: NREL/SR-500-34515
+    year: 2004
+  - type: book
+    title: Summary of Low-Speed Airfoil Data, Volume 1
+    authors:
+      - family-names: Selig
+        given-names: Michael S.
+      - family-names: Guglielmo
+        given-names: James J.
+      - family-names: Broeren
+        given-names: Andy P.
+      - family-names: Giguère
+        given-names: Philippe
+    publisher:
+      name: SoarTech Publications
+    year: 1995
