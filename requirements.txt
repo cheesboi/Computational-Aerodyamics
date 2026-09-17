@@ -1,0 +1,12 @@
+# Pinned to the versions this study's published results were produced with.
+# Later versions will probably work; these are the ones that were verified.
+numpy==2.4.4
+matplotlib==3.10.9
+aerosandbox==4.2.10
+
+# Not a Python package. XFOIL 6.99, installed from the OS:
+#   Debian / Ubuntu / Colab :  apt-get install -y xfoil
+#   macOS                   :  brew install xfoil
+#   Windows                 :  https://web.mit.edu/drela/Public/web/xfoil/
+#
+# Results here were produced with the Debian package 6.99.dfsg+1-3 on Python 3.11.
